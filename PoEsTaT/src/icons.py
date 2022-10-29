@@ -1,0 +1,5 @@
+
+ICONS = {}
+
+def loadKnown():
+    pass
