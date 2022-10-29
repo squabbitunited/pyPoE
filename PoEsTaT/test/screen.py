@@ -1,5 +1,5 @@
 import time
-from PoEsTaT.src import screen
+from PoEsTaT import screen
 from PIL import Image
 
 im = screen.getPart(1000, 400)
